@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Utsab Chaudhary
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning html, css & java
-- 💞️ I’m looking to collaborate on programing
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning HTML5, CSS3, JavaScript, Python, Django, MySQL
+- 💞️ I’m looking to collaborate on Programing
 - 📫 How to reach me utsabc43@gmail.com
 
 <!---
