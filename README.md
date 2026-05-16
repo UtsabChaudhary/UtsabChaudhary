@@ -49,14 +49,18 @@ interest in creating impactful digital solutions and collaborating on innovative
 
 <h2 align="left">📊 GitHub Stats:</h2>
 
-<p align="center">
+<p align="left">
 <img src="https://github-readme-stats.shion.dev/api?username=UtsabChaudhary&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
-  <img src="https://streak-stats.demolab.com/?user=UtsabChaudhary&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
 </p>
 
-<p align="center">
+<p align="left">
+<img src="https://streak-stats.demolab.com/?user=UtsabChaudhary&theme=dark&hide_border=false" />
+</p>
+
+<p align="left">
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=UtsabChaudhary&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </p>
+
 
 <h2 align="left">🔗 Connect With Me:</h2>
 
