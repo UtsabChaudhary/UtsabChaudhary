@@ -47,6 +47,81 @@ interest in creating impactful digital solutions and collaborating on innovative
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+<h2 align="left">🚀 Featured Projects:</h2>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="33%">
+
+<div align="center">
+<a href="https://www.utsabchaudhary.com.np/" target="_blank">
+<img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=500" width="100%" alt="Portfolio Website" />
+</a>
+
+### 🌐 Personal Portfolio
+
+<p>
+Modern responsive portfolio website built using React, Tailwind CSS, and modern UI/UX principles to showcase skills, projects, and experience.
+</p>
+
+<a href="https://www.utsabchaudhary.com.np/" target="_blank">
+<img src="https://img.shields.io/badge/Live-D14836?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</div>
+
+</td>
+
+<td width="33%">
+
+<div align="center">
+<a href="https://github.com/UtsabChaudhary" target="_blank">
+<img src="https://images.unsplash.com/photo-1556740749-887f6717d7e4?w=500" width="100%" alt="E-Commerce Project" />
+</a>
+
+### 🛒 E-Commerce System
+
+<p>
+Full-stack e-commerce platform with product management, authentication, cart system, and secure backend built using Laravel & MySQL.
+</p>
+
+<a href="https://github.com/UtsabChaudhary" target="_blank">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+</td>
+
+<td width="33%">
+
+<div align="center">
+<a href="https://github.com/UtsabChaudhary" target="_blank">
+<img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=500" width="100%" alt="Management System" />
+</a>
+
+### 📚 Management System
+
+<p>
+Responsive management system with dashboard, authentication, CRUD operations, and database integration using PHP & Laravel.
+</p>
+
+<a href="https://github.com/UtsabChaudhary" target="_blank">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
 <h2 align="left">📊 GitHub Stats:</h2>
 
 <p align="center">
