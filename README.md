@@ -16,16 +16,20 @@ interest in creating impactful digital solutions and collaborating on innovative
 </p>
 
 <p align="left">
-<a href="https://facebook.com/utsabchy0" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
+<a href="https://www.utsabchaudhary.com.np/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-D14836?logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/utsabchaudhary" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://instagram.com/utsabchaudhary2" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
 </a>
 
-<a href="https://linkedin.com/in/utsabchaudhary" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+<a href="https://facebook.com/utsabchy0" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
 </a>
 
 <a href="mailto:utsabchy3@gmail.com">
